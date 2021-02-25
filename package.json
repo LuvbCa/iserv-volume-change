@@ -1,0 +1,14 @@
+{
+  "name": "iserv_darkmode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "darkmode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.19.0"
+  }
+}
